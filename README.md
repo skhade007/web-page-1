@@ -8,6 +8,6 @@ test-1
 </head>
 <body>
     <h1>Welcome to My Simple Webpage</h1>
-    <p>This is a basic HTML page. You can add more content and style it as you wish!</p>
+    <p>This is a basic HTML page.</p>
 </body>
 </html>
